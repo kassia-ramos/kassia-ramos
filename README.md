@@ -1,4 +1,4 @@
-## Hi! I am Kássia Ramos.
+## Hi! My name is Kássia Ramos.
 
 <div>
   <a href = "https://github.com/kassia-ramos">
