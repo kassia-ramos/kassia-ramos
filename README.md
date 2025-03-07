@@ -32,4 +32,4 @@
    
 </div>
 
-![Snake animation](https://github.com/kassia-ramos/kassia-ramos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://kassia-ramos.github.io/kassia-ramos/github-contribution-grid-snake.gif)
