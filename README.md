@@ -31,5 +31,3 @@
   <img allign= "center" alt = "Kassia-Flutter" height="30" width="40" src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
    
 </div>
-
-![Snake animation](https://kassia-ramos.github.io/kassia-ramos/github-contribution-grid-snake.svg)
