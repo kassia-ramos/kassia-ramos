@@ -25,7 +25,7 @@
 
 ##
 
-### Studying in this moment:
+### my current focus:
 <div>
   <img allign= "center" alt = "Kassia-Dart" height="30" width="40" src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img allign= "center" alt = "Kassia-Flutter" height="30" width="40" src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
