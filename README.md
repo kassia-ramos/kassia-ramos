@@ -1,4 +1,4 @@
-## Hi! My name is Kássia Ramos.
+## 👋 Olá! Sou Kássia Ramos, aluna de Engenharia de Software. Aqui você vai encontrar alguns projetos que exploram minha jornada na área de Tecnologia!
 
 <div>
   <a href = "https://github.com/kassia-ramos">
