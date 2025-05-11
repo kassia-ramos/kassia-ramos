@@ -18,7 +18,7 @@
 ##
 
 
-### Skills: 
+### Familiaridade: 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kassia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kassia-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -27,10 +27,11 @@
 
 ##
 
-### Meu foco atual:
+### Estudando atualmente:
 <div>
-  <img align="center" alt="Kassia-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Kassia-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Kassia-dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Kassia-flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Kassia-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
 
 <picture>
